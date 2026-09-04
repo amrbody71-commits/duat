@@ -4573,5 +4573,13 @@ renderer.compileAsync(scene, camera).catch(()=>{}).then(()=>{
   setTimeout(()=>boot.remove(), 1300);
 });
 </script>
+<style>
+  #duat-byline{position:fixed;left:16px;bottom:14px;z-index:60;pointer-events:none;
+    font-family:system-ui,-apple-system,'Segoe UI',sans-serif;font-weight:700;
+    font-size:12px;letter-spacing:.16em;text-transform:uppercase;
+    color:rgba(238,228,205,.9);text-shadow:0 1px 6px rgba(0,0,0,.9)}
+  @media (max-width:600px){#duat-byline{font-size:10px;letter-spacing:.12em;left:12px;bottom:10px}}
+</style>
+<div id="duat-byline">Designed by Abdelrahman Shaaban</div>
 </body>
 </html>
