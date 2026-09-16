@@ -1,5 +1,7 @@
 # DUAT
 
+[![The DUAT front page: the pyramids of Giza at sunset under a blood moon, with the extruded DUAT wordmark in the sand](docs/hero.jpg)](https://duat-phi.vercel.app)
+
 **[View it live →](https://amrbody71-commits.github.io/duat/)**
 
 A scroll-driven descent into the Egyptian underworld, rendered in real time in the
